@@ -1,0 +1,4 @@
+module(
+    name = "bazel-bep-bug-repro",
+    version = "0.0.1",
+)

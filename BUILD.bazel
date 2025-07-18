@@ -1,0 +1,5 @@
+load(":hello_world_rule.bzl", "hello_world_rule")
+
+hello_world_rule(
+    name = "hello_world_gen"
+)
